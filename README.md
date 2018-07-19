@@ -1,8 +1,6 @@
 # bloc
+(RxDart and Streams).
 
-A new Flutter application.
+A started app for flutter with login validation.
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
